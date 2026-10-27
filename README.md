@@ -73,8 +73,3 @@
 
 ---
 
-## 6. 파일 구조 및 실행 방법
-
-### 환경 설정
-```bash
-pip install pandas numpy lightgbm scikit-learn matplotlib seaborn
